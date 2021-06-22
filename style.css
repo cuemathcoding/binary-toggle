@@ -1,6 +1,8 @@
 html, body {
   margin: 0;
   padding: 0;
+  color: #FFFFFF;
+  font-size: 64pt;
 }
 canvas {
   display: block;
